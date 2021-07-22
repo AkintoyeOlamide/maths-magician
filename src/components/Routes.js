@@ -1,8 +1,8 @@
-import React from "react";
+import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
-import Home from "./Home";
-import App from "./App";
-import Quotes from "./Quotes";
+import Home from './Home';
+import App from './App';
+import Quotes from './Quotes';
 
 const Routes = () => (
   <BrowserRouter>

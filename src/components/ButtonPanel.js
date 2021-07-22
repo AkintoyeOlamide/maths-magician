@@ -6,15 +6,15 @@ import styles from '../styles/calc.module.css';
 const ButtonPanel = ({ buttons, clickHandler }) => {
   const differentColors = ['÷', '+', 'X', '-', '=', 'รท'];
   const divList = [];
-  buttons.forEach(row => {
+  buttons.forEach((row) => {
     const list = [];
-    row.forEach(button => {
+    row.forEach((button) => {
       const wide = button === '0' ? true : undefined;
       const color = differentColors.includes(button) ? true : undefined;
       list.push(
         <Button
           name={button}
-          clickHandler={buttonName => clickHandler(buttonName)}
+          clickHandler={(buttonName) => clickHandler(buttonName)}
           key={button}
           wide={wide}
           color={color}
