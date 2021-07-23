@@ -4,7 +4,7 @@ import homeStyles from '../styles/home.module.css';
 
 const Home = () => (
   <div>
-    <h2 className={homeStyles.heading}>What is math!</h2>
+    <h2 className={homeStyles.heading}>What is math?</h2>
     <div>
       <p className={homeStyles.paragraph}>
         mathematics, the science of structure, order, and relation that has

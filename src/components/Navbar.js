@@ -4,7 +4,7 @@ import navbarStyles from '../styles/navbar.module.css';
 const Navbar = () => (
   <div className={navbarStyles.topnav}>
     <div>
-      <a className={navbarStyles['brand-logo']} href="/home">My Math Magicians!!</a>
+      <a className={navbarStyles['brand-logo']} href="/home">Math Magicians!</a>
     </div>
     <div className={navbarStyles['navbar-nav']}>
       <a href="/">Home</a>

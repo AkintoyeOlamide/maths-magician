@@ -6,8 +6,9 @@ function Quotes() {
   return (
     <div className={quotesStyles['quote-container']}>
       <p className={quotesStyles.quote}>
-        Mathematics is the queen of science, and arithmetic the queen of mathematics.
-        <small>  –Carl Friedrich Gauss.</small>
+        3. “Without mathematics, there’s nothing you can do. Everything around
+        you is mathematics. Everything around you is numbers.”
+        <small> – Shakuntala Devi</small>
       </p>
     </div>
   );
