@@ -17,7 +17,7 @@ This project is a demo website for Math Magician, developed using React. Here I 
 
 ## `Live Demo:`
 
-[math_magician](/)
+[math_magician](https://adoring-mcclintock-7acf81.netlify.app/)
 
 ## `Screen-shots:`
 
