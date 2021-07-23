@@ -6,7 +6,7 @@ function Quotes() {
   return (
     <div className={quotesStyles['quote-container']}>
       <p className={quotesStyles.quote}>
-        3. “Without mathematics, there’s nothing you can do. Everything around
+        “Without mathematics, there’s nothing you can do. Everything around
         you is mathematics. Everything around you is numbers.”
         <small> – Shakuntala Devi</small>
       </p>

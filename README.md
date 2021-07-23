@@ -1,62 +1,63 @@
-# Calculator-App
+# Math-Magician
 
-This project is a calculator, developed using React.
+This project is a demo website for Math Magician, developed using React. Here I have practiced the basics of React, like,
 
-## Screen-shots:
-<img src="assets/img/calc.png">
+- Props and States,
+- component,
+- Life-cycle methods,
+- Hooks,
+- Routers,
+- Styling the React app,
+- Testing React components.
 
-## `Build-With`
+## `Build-With:`
 
 - React
 - VScode
 
-## Live-Demo
+## `Live Demo:`
 
-[Calc-App](https://sharp-sinoussi-f7eda3.netlify.app/)
+[math_magician](/)
 
-## Getting Started
+## `Screen-shots:`
 
-### `npm start`
+<img src="assets/img/ss1.png">
+<img src="assets/img/ss2.png">
+<img src="assets/img/ss3.png">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles app in production mode and optimizes the build for the best performance.
+# Getting Started:
 
 ### `Prerequisites`
 
-To get this project up and running locally, "yarn install" is needed to be run in order to include all dependencies used for this project.
+To get this project up and running locally, "npm install" is needed to be run in order to include all dependencies used for this project.
 
 **To get this project set up on your local machine, follow these simple steps:**
 
 1. Open Terminal.
 2. Navigate to your desired location to download the contents of this repository.
-3. Copy and paste the following code into the Terminal: git clone https://github.com/Akintoyeolamide/Calculator
-4. cd into Calculator-App
-5. Run "npm install".
-6. Run "npm start".
-7. Open, in your browser, 'localhost:3000'.
+3. Copy and paste the following code into the Terminal: git clone `https://github.com/AkintoyeOlamide/maths-magician`.
+4. Into the Terminal: run `cd maths-magician`.
+5. Into the Terminal: run `npm install`.
+6. Into the Terminal: run `npm start`.
+7. To see the website in the browser, open browser and load `localhost:3000`.
 
-## Author Details::
+**To run the test suits:**
 
-👤 **Akintoyeolamide**
+1. Into the Terminal: run `npm test`.
+2. Press `a` to run all tests.
 
-- Github: [@Akintoyeolamide](https://github.com/Akintoyeolamide)
-- Linkedin: [@Akintoyeolamide](https://www.linkedin.com/in/Akintoye-olamide/)
-- E-mail: <a href="mailto:Akintoyeolamide500@gmail.com?subject=Hello Olamide!">Email</a>
+## `Author Details::`
 
-## Show your support
+👤 **Akintoye Olamide**
+
+- Github: [@AkintoyeOlamide](https://github.com/AkintoyeOlamide)
+- Linkedin: [@AkintoyeOlamide](https://www.linkedin.com/in/akintoyeolamide/)
+- E-mail: <a href="mailto:akintoyeeolamide500@gmail.com?subject=Hello Olamide!">Email</a>
+
+## `Show your support:`
 
 Give ⭐ Star me on GitHub — it helps!
 
-## 📝 License
+## 📝 `License`
 
 This project is [MIT](lic.url) licensed.
