@@ -7,9 +7,9 @@ exports[`Quotes renders the quotes component correctly 1`] = `
   <p
     className="quote"
   >
-    Mathematics is the queen of science, and arithmetic the queen of mathematics.
+    “Without mathematics, there’s nothing you can do. Everything around you is mathematics. Everything around you is numbers.”
     <small>
-        –Carl Friedrich Gauss.
+       – Shakuntala Devi
     </small>
   </p>
 </div>
