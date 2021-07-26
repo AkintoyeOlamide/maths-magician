@@ -1,11 +1,10 @@
+
 body {
-  padding: 10px;
-  background-color: #607bb1;
+  padding: 100px;
+  background-color: #282c34;
 }
 
 .App {
-  display: flex;
-  flex-wrap: wrap;
   text-align: center;
 }
 
